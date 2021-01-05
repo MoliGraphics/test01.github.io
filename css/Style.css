@@ -1,4 +1,12 @@
 h1 {
+    font-size: large;
+    font-weight: 600px;
+    font-family: protipo,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+body {
     font-family: protipo,sans-serif;
     font-weight: 400;
     font-style: normal;
