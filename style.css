@@ -1,5 +1,5 @@
-h1 {
-    text-align: center;
+h2 {
+    text-align: left;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: bold;
     font-size: 180%;
@@ -8,6 +8,16 @@ h1 {
     padding-bottom: 13px;
     padding-top: 5px;
 }
+
+h1 {
+    text-align: left;
+    font-family: protipo, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #000; 
+    padding-bottom: 5px;
+    padding-top: 5px;
+
 .imgh {
     text-align: center;
 }
