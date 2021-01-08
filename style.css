@@ -20,12 +20,12 @@ h1 {
     font-weight: 1500;
     font-style: normal;
     color: #000; 
-    padding-bottom: 5px;
+    padding-bottom: 1px;
     padding-top: 5px;
 }
 
-h3 {
-    font-family: 'protipo',sans-serif;
+body {
+    font-family: 'degular',sans-serif;
     font-weight: 50;
     font-style: normal;
     color: #000; 
