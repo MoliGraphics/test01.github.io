@@ -20,8 +20,7 @@ h1 {
     font-weight: 1500;
     font-style: normal;
     color: #000; 
-    padding-bottom: 1px;
-    padding-top: 5px;
+    padding: 20px;
 }
 
 body {
@@ -30,10 +29,9 @@ body {
     font-weight: 50;
     font-style: normal;
     color: #000; 
-    padding-bottom: 5px;
-    padding-top: 5px;
 }
 
 .section {
-    width: 25%;
+    text-align: left;
+
 }
