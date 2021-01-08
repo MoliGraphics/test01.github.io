@@ -10,6 +10,10 @@
     padding-top: 5px;
 }*/ 
 
+/*.imgh {
+    text-align: center;
+}*/
+
 h1 {
     text-align: left;
     font-family: 'protipo', sans-serif;
@@ -20,7 +24,8 @@ h1 {
     padding-top: 5px;
 }
 
-body {font-family: 'protipo',sans-serif;
+h3 {
+    font-family: 'protipo',sans-serif;
     font-weight: 200;
     font-style: normal;
     color: #000; 
@@ -29,9 +34,7 @@ body {font-family: 'protipo',sans-serif;
 }
 
 
-.imgh {
-    text-align: center;
-}
+
 h4 {
     text-align: left;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
