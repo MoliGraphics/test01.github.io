@@ -33,13 +33,23 @@ h2 {
     font-size: 100%;
 }
 
-body {
+h3 {
+    font-family: 'houschka-pro',sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 100%;
+    line-height: 140%;
+}
+
+/*h6 is the body text*/
+h6 {
     text-align: justify;
     font-family: 'degular',sans-serif;
     font-weight: 300;
-    font-size: 100%;
+    font-size: 90%;
     font-style: normal;
     color: #000; 
+    line-height: 140%;
 }
 
 /*global rules*/
@@ -47,39 +57,47 @@ body {
     text-align: justify;
 }
 
-/* things on the left side*/
-.container {
+/* row1 is the heading; row2 starts from the images*/
+/* column0 is the left-side things; column1-3 is the right-side things*/
+.column0 {
     width: 220px;
     padding-left: 150px;
     float: left;
 }
 
-
-/*things on the right side*/
-.box {
+.row1 {
     width: 1000px;
-    padding-top: 10px;
+    padding-top: 50px;
     padding-left: 200px;
-    float: left;
+}
+
+.row2 {
+    width: 1000px;
+    padding-top: 50px;
 }
 
 .column1 {
     width: 300px;
-    padding-top: 20px;
     padding-left: 200px;
     float: left;
 }
 
 .column2 {
     width: 300px;
-    padding-top: 20px;
     padding-left: 30px;
     float: left;
 }
 
 .column3 {
     width: 300px;
-    padding-top: 20px;
     padding-left: 30px;
     float: left;
+}
+
+.box {
+    background-color: #F2F2F2;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
